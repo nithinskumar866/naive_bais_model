@@ -1,22 +1,21 @@
-Got it — since your Python session expired, I’ll just give you your **README.md** content here so you can copy it directly into a file, with your name at the end and a placeholder for the picture.
 
----
-
-````markdown
-# 📧 Naive Bayes Spam Detection
+#  Naive Bayes Spam Detection
 
 This project is a simple **Spam/Ham classifier** using the Naive Bayes algorithm.  
 It classifies incoming text messages as either **Spam** or **Not Spam** based on historical data.
 
 ---
 
-## 📷 Project Screenshot
-*(Add your image here)*  
-`![App Screenshot](path/to/image.png)`
+##  Project Screenshot
+ 
+![alt text](image.png)
+------------
+output:
+![alt text](image-1.png)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 naive_bayes_spam_detection/  
 │  
@@ -35,7 +34,7 @@ naive_bayes_spam_detection/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset `spam.csv` contains labeled SMS messages:
 
@@ -51,11 +50,11 @@ Example:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/naive_bayes_spam_detection.git
+   git clone https://github.com/nithinskumar866/naive_bais_model.git
    cd naive_bayes_spam_detection
 ````
 
@@ -82,7 +81,7 @@ Example:
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 * **Algorithm**: Multinomial Naive Bayes
 * **Vectorization**: CountVectorizer (Bag-of-Words)
@@ -90,7 +89,7 @@ Example:
 
 ---
 
-## 🖥 Usage
+##  Usage
 
 ### Web App
 
@@ -107,7 +106,7 @@ Then enter a message when prompted.
 
 ---
 
-## 📌 Example Prediction
+##  Example Prediction
 
 **Input:**
 
@@ -121,12 +120,5 @@ WINNER! You have won a free ticket to Bahamas. Call now!
 Prediction: Spam
 ```
 
----
-
-## ✍️ Done by -Nithin
-
-```
-
----
 
 
